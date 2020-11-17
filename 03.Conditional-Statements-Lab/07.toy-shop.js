@@ -1,32 +1,29 @@
-function toyShop(vacationAmount, puzzles, talkingToys, bearsToys, minionsToys, truckToys) {
-    vacationAmount = Number(vacationAmount);
-    puzzles = Number(puzzles);
-    talkingToys = Number(talkingToys);
-    bearsToys = Number(bearsToys);
-    minionsToys = Number(minionsToys);
-    truckToys = Number(truckToys);
+function toyShop(tripPrice, jigsaw, dolls, bears, minions, trucks) {
+    
+    let jigsawPrice = 2.6;
+    let dollsPrice = 3;
+    let bearPrice = 4.1;
+    let minionPrice = 8.2;
+    let truckPrice = 2;
 
-    let totalToys = puzzles + talkingToys + bearsToys + minionsToys + truckToys;
-
-    let puzzlesAmount = puzzles * 2.6;
-    let talkingToysAmount = talkingToys * 3;
-    let bearsToysAmount = bearsToys * 4.1;
-    let minionsToysAmount = minionsToys * 8.2;
-    let truckToysAmount = truckToys * 2;
-    let totalAmount = puzzlesAmount + talkingToysAmount + bearsToysAmount + minionsToysAmount + truckToysAmount;
-
-    // If the number of toys is greater than 50 the store gives 25% discount
-    if (totalToys > 50) {
-        totalAmount = totalAmount - (totalAmount * .25);
+    let totalCount = Number(jigsaw) + Number(dolls) + Number(bears) + Number(minions) + Number(trucks);
+    let priceMultiplier = 1;
+    if (totalCount > 50) {
+        priceMultiplier = .75;
     }
 
-    let total = totalAmount - (totalAmount * .1);
+    let total = jigsaw * Number(jigsawPrice) + dolls * Number(dollsPrice) +
+                bears * Number(bearPrice) + minions * Number(minionPrice) +
+                trucks * Number(truckPrice);
+
+    total *= priceMultiplier;
+
+    let finalMoney = total - (total * .1);
     
-    if (total > vacationAmount) {
-        console.log("Yes! " + total.toFixed(2) + " lv left.")
+    if (finalMoney > tripPrice) {
+        console.log("Yes! " + (finalMoney - tripPrice).toFixed(2) + " lv left.");
     } else {
-        total = vacationAmount - total;
-        console.log("Not enough money! " + total.toFixed(2) + " lv needed.")
+        console.log("Not enough money! " + (tripPrice - finalMoney).toFixed(2) + " lv needed.");
     }
 }
 
