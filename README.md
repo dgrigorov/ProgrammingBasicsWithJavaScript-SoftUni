@@ -12,8 +12,16 @@
 
 
 ## Programming Basics with JavaScript
-1. [First Steps Into Programming with JS](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/First-Steps-Into-Programming) - 03.10.2020
+1. [First Steps Into Programming with JS Lab](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/First-Steps-Into-Programming) - 03.10.2020
 2. [First Steps Into Programming with JS Exercise](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/First-Step-Into-Programming-Exercise) - 04.10.2020
+3. [Conditional Statements Lab](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/First-Step-Into-Programming-Exercise) - 10.10.2020
+4. [Conditional Statements Exercise](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/First-Step-Into-Programming-Exercise) - 11.10.2020
+5. [Advanced Conditional Statements Lab](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/First-Step-Into-Programming-Exercise) - 17.10.2020
+6. [Advanced Conditional Statements Exercise](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/First-Step-Into-Programming-Exercise) - 18.10.2020
+7. [For Loop Lab](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/First-Step-Into-Programming-Exercise) - 24.10.2020
+8. [For Loop Exercise](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/First-Step-Into-Programming-Exercise) - 25.10.2020
+9. [While Loop Lab](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/First-Step-Into-Programming-Exercise) - 31.10.2020
+10. [Exam](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/First-Step-Into-Programming-Exercise) - 22.11.2020
 
 
 
