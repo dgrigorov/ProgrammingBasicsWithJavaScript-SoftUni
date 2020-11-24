@@ -14,7 +14,7 @@
 ## Programming Basics with JavaScript
 1. [First Steps Into Programming with JS Lab](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/01.First-Steps-Into-Programming-Lab) - 03.10.2020
 2. [First Steps Into Programming with JS Exercise](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/First-Step-Into-Programming-Exercise) - 04.10.2020
-3. [Conditional Statements Lab](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/First-Step-Into-Programming-Exercise) - 10.10.2020
+3. [Conditional Statements Lab](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/01.First-Step-Into-Programming-Exercise) - 10.10.2020
 4. [Conditional Statements Exercise](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/02.First-Step-Into-Programming-Exercise) - 11.10.2020
 5. [Advanced Conditional Statements Lab](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/03.Conditional-Statements-Lab) - 17.10.2020
 6. [Advanced Conditional Statements Exercise](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/tree/main/First-Step-Into-Programming-Exercise) - 18.10.2020
