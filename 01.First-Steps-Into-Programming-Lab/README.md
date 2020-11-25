@@ -1,7 +1,7 @@
 Homework: Introduction to Programming
 ========
 
-### Problem 1. Конзолна програма "Hello SoftUni"
+### [Problem 1. Конзолна програма "Hello SoftUni"](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/blob/main/01.First-Steps-Into-Programming-Lab/01.hello-world.js)
 Първата задача от тази тема е да се напише функция, която отпечатва на конзолата: 
 "Hello SoftUni ".
 Примерен вход и изход:
@@ -11,7 +11,7 @@ Homework: Introduction to Programming
 | Няма  | Hello SoftUni |
 
 
-### Problem 2. Числата от 1 до 10
+### [Problem 2. Числата от 1 до 10](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/blob/main/01.First-Steps-Into-Programming-Lab/02.print-numbers.js)
 Напишете функция, която отпечатва числата от 1 до 10 на отделни редове на конзолата.
 
 
@@ -19,7 +19,7 @@ Homework: Introduction to Programming
 |---------|-----------|
 | Няма | 1 <br />2 <br />3 <br />4 <br />5 <br />6 <br />7 <br />8 <br />9 <br />10 |
 
-### Problem 3. Пресмятане на лице на квадрат
+### [Problem 3. Пресмятане на лице на квадрат](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/blob/main/01.First-Steps-Into-Programming-Lab/03.sqaure-area.js)
 Да се напише <b>функция</b>, която <b>получава цяло число и пресмята лицето на квадрат със страна "a"</b>. Задачата е тривиално лесна: получавате число в аргумента на функцията, умножавате го само по себе си и печатате получения резултат на конзолата.
 
 #### Примерен вход и изход
@@ -28,7 +28,7 @@ Homework: Introduction to Programming
 |---------|-----------|
 | 5 | 25 |
 
-### Problem 4. От инчове към сантиметри
+### [Problem 4. От инчове към сантиметри](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/blob/main/01.First-Steps-Into-Programming-Lab/04.inches-to-centimeters.js)
 Да се напише функция, която <b>получава цяло число</b> и преобразува числото <b>от инчове в сантиметри</b>. За целта <b>умножава инчовете по 2.54</b> (защото 1 инч = 2.54 сантиметра).
 
 #### Примерен вход и изход
@@ -39,14 +39,14 @@ Homework: Introduction to Programming
 
 <b>Внимание</b>: в зависимост от регионалните настройки на операционната система, е възможно вместо <b>десетична точка</b> (US настройки) да се използва <b>десетична запетая</b> (BG настройки). Ако програмата очаква десетична точка и бъде въведено число с десетична запетая или на обратно (бъде въведена десетична точка когато се очаква десетична запетая), то тя няма да може да се изпълни.
 
-### Problem 5. Поздрав по име
+### [Problem 5. Поздрав по име](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/blob/main/01.First-Steps-Into-Programming-Lab/05.greetings-by-name.js)
 Напишете функция, която <b>получава име на човек</b> и отпечатва <b>"Hello, <name>!"</b>, където <b><name></b> е въведеното име от конзолата.
 
-### Problem 6. Съединяване на текст и числа
+### [Problem 6. Съединяване на текст и числа](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/blob/main/01.First-Steps-Into-Programming-Lab/06.concatenate-data.js)
 Напишете функция, която <b>получава: име, фамилия, възраст и град</b> и печата съобщение от следния вид: <b>"You are <firstName> <lastName>, a <age>-years old person from <town>.</b>"
 
 
-### Problem 7. Изготвяне на проекти
+### [Problem 7. Изготвяне на проекти](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/blob/main/01.First-Steps-Into-Programming-Lab/07.projects-creation.js)
 Напишете функция, която <b>изчислява колко часове</b> ще са необходими на един архитект, за да <b>изготви проектите</b> на няколко строителни обекта. Изготвянето на един проект отнема <b>три часа</b>.
 
 #### Вход
@@ -68,7 +68,7 @@ Homework: Introduction to Programming
 |---------|-----------|
 | "Sanya", "9" | The architect Sanya will need 27 hours to complete 9 project/s. |
 
-### Problem 8. Зоомагазин
+### [Problem 8. Зоомагазин](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/blob/main/01.First-Steps-Into-Programming-Lab/08.pet-shop.js)
 Напишете функция, която пресмята нужните разходи за закупуването на храна за кучета.  Храната се пазарува основно за кучета, от зоомагазин, но понякога стопанинът им купува и за животните на съседа му. Една опаковка храна за кучета е на цена 2.50лв., а всяка останала, която не е за тях струва 4лв.
 
 #### Вход
@@ -86,7 +86,7 @@ Homework: Introduction to Programming
 | 5, 4 | 28.5 lv. |
 | 13, 9 | 68.5 lv |
 
-### Problem 9. Озеленяване на дворове
+### [Problem 9. Озеленяване на дворове](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/blob/main/01.First-Steps-Into-Programming-Lab/09.yard-greening.js)
 Божидара разполага с <b>няколко къщи</b> на Черноморието и <b>желае да озелени дворовете на някои от тях</b>, като по този начин създаде <b>уютна обстановка и комфорт на гостите си</b>, като за целта е наела фирма.
 
 Напишете функция, която <b>изчислява необходимите средства</b>, които Божидара ще трябва да заплати на фирмата изпълнител на проекта. Цената на <b>един кв. м. е 7.61лв със ДДС</b>. Тъй като нейният двор е <b>доста голям</b>, фирмата изпълнител предлага <b>18% отстъпка от крайната цена</b>.
