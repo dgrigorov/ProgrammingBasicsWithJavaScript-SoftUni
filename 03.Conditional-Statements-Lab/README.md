@@ -1,7 +1,7 @@
 Homework: Conditional Statements Lab
 ========
 
-### Problem 1. Проверка за отлична оценка
+### [Problem 1. Проверка за отлична оценка](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/blob/main/03.Conditional-Statements-Lab/01.%20excellent-result.js)
 Първата задача от тази тема е да се напише <b>функция</b>, която <b>чете оценка</b>, получена като аргумент и отпечатва <b>"Excellent!"</b>, ако оценката е <b>5.50</b> или по-висока.
 
 |  вход   | изход     |
@@ -12,7 +12,7 @@ Homework: Conditional Statements Lab
 | "5.49"  |(няма изход)|
 
 
-### Problem 2. Намиране на по-голямото число
+### [Problem 2. Намиране на по-голямото число](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/blob/main/03.Conditional-Statements-Lab/02.%20greater-number.js)
 Да се напише функция, която получава <b>две цели числа</b> и отпечатва <b>по-голямото от двете</b>.
 
 
@@ -23,7 +23,7 @@ Homework: Conditional Statements Lab
 | ("-5", "5")| 45 |
 
 
-### Problem 3. Четно или нечетно
+### [Problem 3. Четно или нечетно](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/blob/main/03.Conditional-Statements-Lab/03.%20even-or-odd.js)
 Да се напише  функция, която получава <b>цяло число</b>  като аргумент и отпечатва на конзолата, дали е <b>четно</b> или <b>нечетно</b>. 
 
 #### Примерен вход и изход
@@ -35,7 +35,7 @@ Homework: Conditional Statements Lab
 | ("25") | odd  |
 |("1024")| even |
 
-### Problem 4. Число от 100 до 200
+### [Problem 4. Число от 100 до 200](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/blob/main/03.Conditional-Statements-Lab/04.number-100-200.js)
 Да се напише функция, която <b>получава цяло число</b>,  като аргумент и проверява, дали е <b>под 100, между 100 и 200 или над 200</b>. Да се отпечатат съответно съобщения, като в примерите по-долу:
 
 #### Примерен вход и изход
@@ -47,7 +47,7 @@ Homework: Conditional Statements Lab
 | ("210") | Greater than 200  |
 
 
-### Problem 4. Познай паролата
+### [Problem 4. Познай паролата](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/blob/main/03.Conditional-Statements-Lab/05.password-gues.js)
 Да се напише функция, която <b>получава парола</b> (един ред с произволен текст), като аргумент и проверява, дали <b>съвпада</b> с фразата <b>"s3cr3t!P@ssw0rd"</b>. При съвпадение да се изведе <b>"Welcome"</b>. При несъвпадение да се изведе <b>"Wrong password!"</b>.
 
 #### Примерен вход и изход
@@ -64,7 +64,7 @@ Homework: Conditional Statements Lab
 |---------|-----------|
 | ("s3cr3t!p@ss") | Wrong password!  |
 
-### Problem 5. Лица на фигури
+### [Problem 5. Лица на фигури](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/blob/main/03.Conditional-Statements-Lab/05.password-gues.js)
 Да се напише функция,  която <b>получава като аргументи вида и размерите на геометрична</b> фигура и пресмята лицето й. Фигурите са четири вида: квадрат (square), правоъгълник (<b>rectangle</b>), кръг (<b>circle</b>) и триъгълник (<b>triangle</b>). Първият аргумент е вида на фигурата (<b>square, rectangle, circle или triangle</b>). Ако фигурата е квадрат, следващия аргумент е едно число - дължина на страната му. Ако фигурата е правоъгълник, следващите два аргумента са две числа - дължините на страните му. Ако фигурата е кръг, следващия аргумент е число - радиусът на кръга. Ако фигурата е триъгълник, следващите два аргумента са две числа - дължината на страната му и дължината на височината към нея. Резултатът да се закръгли до <b>3 цифри след десетичната точка</b>. 
 
 #### Примерен вход и изход
@@ -77,7 +77,7 @@ Homework: Conditional Statements Lab
 
 ## Примерна изпитна задача* 
 
-### Problem 6. * Магазин за детски играчки
+### [Problem 6. * Магазин за детски играчки](https://github.com/dgrigorov/ProgrammingBasicsWithJavaScript-SoftUni/blob/main/03.Conditional-Statements-Lab/06.area-of-figures.js)
 Петя има магазин за детски играчки. Тя получава голяма поръчка, която трябва да изпълни. С парите, които ще спечели иска да отиде на екскурзия. Да се напише функция, която пресмята печалбата от поръчката.
 
 <b>Цени на играчките:</b>
